@@ -1,6 +1,10 @@
 *{
-    background-image:url("https://bit.ly/2w7yKt4") ;
+    /* background-color: aquamarine; */
     background-repeat:no-repeat ;
     background-size: cover;
     /* background-position: center; */
+}
+h1 {
+    font-style: italic;
+    font-size: xx-large;
 }
