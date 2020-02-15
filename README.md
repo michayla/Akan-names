@@ -30,5 +30,9 @@ JAVA SCRIPT
 </ul>
  
  ## License
- MIT
- 
+ MIT license
+
+
+## Author
+Michelle Michuki 
+michukimichelle@gmail.com
