@@ -58,7 +58,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color:blue
   text-align: left;
   background-color: #fff;
 }
@@ -79,6 +79,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+  color:black;
+  font-size: x-large;
   margin-top: 0;
   margin-bottom: 1rem;
 }
