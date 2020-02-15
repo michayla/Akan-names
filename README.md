@@ -23,6 +23,12 @@
   All you have to do is fill in your date,month and year of birth
 
 ## Used Technologies
+<ul>
 HTML
 CSS
 JAVA SCRIPT
+</ul>
+ 
+ ## License
+ MIT
+ 
