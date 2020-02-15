@@ -8,12 +8,13 @@
 ## BDD
    <img src="images/IMAGE3.jpg">
 
-- Day: in the above
+- Day: Here the user is required to fill the  Day they were born.
 
   <img src="images/IMAGE1.jpg">
+  
+- Month : Here the user is required to fill out the month they were born.
 
-- 
 
  <img src="images/IMAGE.jpg">
 
- - 
+ - Year: Here the user is required to fill out the year of Birth
