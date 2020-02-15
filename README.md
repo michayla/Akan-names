@@ -18,3 +18,8 @@
  <img src="images/IMAGE.jpg">
 
  - Year: Here the user is required to fill out the year of Birth
+
+ Set up instructions
+  All you have to do is fill in your date,month and year of birth
+
+  
