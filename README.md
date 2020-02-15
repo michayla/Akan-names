@@ -6,7 +6,7 @@
 ## project description
 * The project basically is supposed to generate name depending on the day,month and year that you were born.
 ## BDD
-   
+   <img/home/michelle/Pictures/Screenshot from 2020-02-15 23-08-57.png >
 
 - Day: Here the user is required to fill the  Day they were born.
 
